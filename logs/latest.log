@@ -1,0 +1,73 @@
+[16:34:16] [main/INFO]: Loading for game Minecraft 1.16.4
+[16:34:16] [main/INFO]: [FabricLoader] Loading 2 mods: minecraft@1.16.4, fabricloader@0.10.6+build.214
+[16:34:16] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/Geoffroy/Desktop/Server_test/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[16:34:25] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:34:26] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:34:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:34:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:34:26] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:34:26] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:34:26] [main/INFO]: Reloading ResourceManager: Default, AllMobHeads_V5.3+1.16, armor statues v2.8.1.zip, cauldron concrete v2.0.3.zip, holycube5, holycube5-miscs, holycube5-recipes, redstone rotation wrench v1.1.0.zip
+[16:34:29] [Worker-Main-11/INFO]: Loaded 7 recipes
+[16:34:29] [Worker-Main-11/WARN]: Found validation problem in {minecraft:entities/shulker}.pools[0].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/shulker
+[16:34:29] [Worker-Main-11/WARN]: Found validation problem in {minecraft:entities/ender_dragon}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/ender_dragon
+[16:34:29] [Worker-Main-11/WARN]: Found validation problem in {minecraft:entities/zombie_pigman}.pools[0].entries[0]: Unknown loot table called vanilla:entities/zombie_pigman
+[16:34:29] [Worker-Main-11/INFO]: Loaded 1407 advancements
+[16:34:33] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[16:34:33] [Server thread/INFO]: Loading properties
+[16:34:33] [Server thread/INFO]: Default game type: SURVIVAL
+[16:34:33] [Server thread/INFO]: Generating keypair
+[16:34:33] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:34:33] [Server thread/INFO]: Using default channel type
+[16:34:35] [Server thread/INFO]: Preparing level "world"
+[16:34:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:34:37] [Server thread/INFO]: Preparing spawn area: 0%
+[16:34:37] [Server thread/INFO]: Preparing spawn area: 0%
+[16:34:37] [Server thread/INFO]: Preparing spawn area: 0%
+[16:34:37] [Server thread/INFO]: Preparing spawn area: 0%
+[16:34:37] [Server thread/INFO]: Preparing spawn area: 46%
+[16:34:42] [Worker-Main-12/INFO]: Preparing spawn area: 83%
+[16:34:42] [Worker-Main-12/INFO]: Preparing spawn area: 83%
+[16:34:42] [Worker-Main-10/INFO]: Preparing spawn area: 83%
+[16:34:42] [Worker-Main-13/INFO]: Preparing spawn area: 83%
+[16:34:42] [Worker-Main-13/INFO]: Preparing spawn area: 83%
+[16:34:42] [Worker-Main-13/INFO]: Preparing spawn area: 83%
+[16:34:42] [Worker-Main-14/INFO]: Preparing spawn area: 83%
+[16:34:42] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[16:34:42] [Worker-Main-17/INFO]: Preparing spawn area: 83%
+[16:34:42] [Server thread/INFO]: Preparing spawn area: 83%
+[16:34:43] [Worker-Main-17/INFO]: Preparing spawn area: 90%
+[16:34:43] [Worker-Main-13/INFO]: Preparing spawn area: 90%
+[16:34:44] [Worker-Main-12/INFO]: Preparing spawn area: 90%
+[16:34:44] [Server thread/INFO]: Preparing spawn area: 91%
+[16:34:45] [Worker-Main-9/INFO]: Preparing spawn area: 93%
+[16:34:45] [Server thread/INFO]: Time elapsed: 9867 ms
+[16:34:45] [Server thread/INFO]: Done (10.064s)! For help, type "help"
+[16:34:45] [Server thread/WARN]: Trying to add entity with duplicated UUID a093751a-2c77-4658-9d5f-62ab4494bdaf. Existing minecraft:armor_stand#160, new: minecraft:armor_stand#161
+[16:36:50] [User Authenticator #1/INFO]: UUID of player Geogeohal is a9937690-52fd-4684-bf67-6f9b212608a6
+[16:36:50] [Server thread/INFO]: Geogeohal[/127.0.0.1:6879] logged in with entity id 169 at (133.9567866006389, 72.0, -388.16678945677165)
+[16:36:50] [Server thread/INFO]: Geogeohal joined the game
+[16:37:05] [Server thread/INFO]: [Geogeohal: Set the time to 1000]
+[16:37:26] [Server thread/INFO]: Villager class_1646['Cleric'/95, l='ServerLevel[world]', x=125.42, y=72.00, z=-387.30] died, message: 'Cleric was slain by Zombie'
+[16:37:33] [Server thread/INFO]: Geogeohal has made the advancement [Monster Hunter]
+[16:37:42] [Server thread/INFO]: [Geogeohal: Set own game mode to Creative Mode]
+[16:40:45] [Server thread/INFO]: [Geogeohal: Set the time to 1000]
+[16:40:52] [Server thread/INFO]: [Geogeohal: Set the time to 13000]
+[16:40:56] [Server thread/INFO]: Geogeohal has made the advancement [Sweet Dreams]
+[16:41:56] [Server thread/INFO]: Villager class_1646['Farmer'/90, l='ServerLevel[world]', x=86.24, y=66.00, z=-370.80] died, message: 'Farmer was slain by Geogeohal'
+[16:50:02] [Server thread/INFO]: [Geogeohal: Set the time to 1000]
+[16:54:33] [Server thread/INFO]: Geogeohal lost connection: Disconnected
+[16:54:33] [Server thread/INFO]: Geogeohal left the game
+[16:54:39] [Server thread/INFO]: Stopping the server
+[16:54:39] [Server thread/INFO]: Stopping server
+[16:54:39] [Server thread/INFO]: Saving players
+[16:54:39] [Server thread/INFO]: Saving worlds
+[16:54:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:54:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:54:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:54:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:54:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:54:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:54:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:54:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:54:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

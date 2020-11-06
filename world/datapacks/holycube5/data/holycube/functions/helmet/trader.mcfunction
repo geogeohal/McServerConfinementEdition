@@ -1,0 +1,1 @@
+data modify entity @s Offers.Recipes prepend value {rewardExp:0b,maxUses:3,buy:{id:"minecraft:golden_helmet",Count:1b},buyB:{id:"minecraft:lingering_potion",tag:{Potion:"minecraft:night_vision"},Count:1b},sell:{id:"minecraft:golden_helmet",Count:1b,tag:{Tags:["night_vision"],display:{Lore:["[{\"text\":\"vient avec Night Vision !\",\"italic\":true}]"]}}}}
