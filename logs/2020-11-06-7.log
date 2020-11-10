@@ -1,0 +1,49 @@
+[23:39:53] [main/INFO]: Loading for game Minecraft 1.16.4
+[23:39:53] [main/INFO]: [FabricLoader] Loading 2 mods: minecraft@1.16.4, fabricloader@0.10.6+build.214
+[23:39:53] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/Geoffroy/Desktop/Server_test/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[23:40:01] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23:40:02] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23:40:02] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:40:02] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:40:02] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23:40:02] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:40:02] [main/INFO]: Reloading ResourceManager: Default, AllMobHeads_V5.3+1.16, armor statues v2.8.1.zip, cauldron concrete v2.0.3.zip, holycube5, holycube5-miscs, holycube5-recipes, redstone rotation wrench v1.1.0.zip
+[23:40:03] [Worker-Main-10/INFO]: Loaded 7 recipes
+[23:40:03] [Worker-Main-10/WARN]: Found validation problem in {minecraft:entities/shulker}.pools[0].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/shulker
+[23:40:03] [Worker-Main-10/WARN]: Found validation problem in {minecraft:entities/ender_dragon}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/ender_dragon
+[23:40:03] [Worker-Main-10/WARN]: Found validation problem in {minecraft:entities/zombie_pigman}.pools[0].entries[0]: Unknown loot table called vanilla:entities/zombie_pigman
+[23:40:04] [Worker-Main-10/INFO]: Loaded 1407 advancements
+[23:40:07] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[23:40:07] [Server thread/INFO]: Loading properties
+[23:40:07] [Server thread/INFO]: Default game type: SURVIVAL
+[23:40:07] [Server thread/INFO]: Generating keypair
+[23:40:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:40:07] [Server thread/INFO]: Using default channel type
+[23:40:09] [Server thread/INFO]: Preparing level "world"
+[23:40:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:40:11] [Server thread/INFO]: Preparing spawn area: 0%
+[23:40:11] [Server thread/INFO]: Preparing spawn area: 0%
+[23:40:11] [Server thread/INFO]: Preparing spawn area: 0%
+[23:40:11] [Server thread/INFO]: Preparing spawn area: 0%
+[23:40:17] [Worker-Main-13/INFO]: Preparing spawn area: 83%
+[23:40:17] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[23:40:17] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[23:40:17] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[23:40:17] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[23:40:17] [Server thread/INFO]: Preparing spawn area: 83%
+[23:40:17] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[23:40:17] [Worker-Main-9/INFO]: Preparing spawn area: 83%
+[23:40:17] [Server thread/INFO]: Preparing spawn area: 83%
+[23:40:17] [Worker-Main-15/INFO]: Preparing spawn area: 83%
+[23:40:17] [Server thread/INFO]: Preparing spawn area: 83%
+[23:40:17] [Worker-Main-15/INFO]: Preparing spawn area: 83%
+[23:40:17] [Server thread/INFO]: Preparing spawn area: 83%
+[23:40:18] [Server thread/INFO]: Preparing spawn area: 84%
+[23:40:18] [Worker-Main-12/INFO]: Preparing spawn area: 90%
+[23:40:19] [Worker-Main-15/INFO]: Preparing spawn area: 90%
+[23:40:19] [Worker-Main-9/INFO]: Preparing spawn area: 90%
+[23:40:20] [Worker-Main-13/INFO]: Preparing spawn area: 93%
+[23:40:20] [Worker-Main-14/INFO]: Preparing spawn area: 97%
+[23:40:20] [Server thread/INFO]: Time elapsed: 11234 ms
+[23:40:20] [Server thread/INFO]: Done (11.417s)! For help, type "help"
+[23:40:21] [Server thread/WARN]: Trying to add entity with duplicated UUID a093751a-2c77-4658-9d5f-62ab4494bdaf. Existing minecraft:armor_stand#152, new: minecraft:armor_stand#153

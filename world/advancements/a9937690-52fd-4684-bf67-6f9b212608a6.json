@@ -77,7 +77,8 @@
       "minecraft:taiga_hills": "2020-11-06 13:24:51 +0100",
       "minecraft:beach": "2020-11-06 13:24:52 +0100",
       "minecraft:river": "2020-11-06 13:25:11 +0100",
-      "minecraft:savanna": "2020-11-06 13:25:13 +0100"
+      "minecraft:savanna": "2020-11-06 13:25:13 +0100",
+      "minecraft:plains": "2020-11-08 19:04:57 +0100"
     },
     "done": false
   },
@@ -273,17 +274,17 @@
     },
     "done": true
   },
-  "custom:collection/villager/savanna": {
-    "criteria": {
-      "05_farmer_savanna_villager": "2020-11-06 16:41:57 +0100"
-    },
-    "done": false
-  },
   "custom:collection/zombie_villager/snow/end_line_snow_zombie_villager": {
     "criteria": {
       "location": "2020-11-06 16:36:50 +0100"
     },
     "done": true
+  },
+  "custom:collection/villager/savanna": {
+    "criteria": {
+      "05_farmer_savanna_villager": "2020-11-06 16:41:57 +0100"
+    },
+    "done": false
   },
   "custom:collection/sheep/end_line_sheep": {
     "criteria": {

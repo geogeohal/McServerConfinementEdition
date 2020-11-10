@@ -1,2 +1,2 @@
-java -jar fabric-server-launch.jar
+java -jar .\fabric-server-launch.jar
 pause
