@@ -1,145 +1,107 @@
-[19:02:53] [main/INFO]: Loading for game Minecraft 1.16.4
-[19:02:53] [main/INFO]: [FabricLoader] Loading 2 mods: minecraft@1.16.4, fabricloader@0.10.6+build.214
-[19:02:53] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/Geoffroy/Desktop/Server_test/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
-[19:03:01] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19:03:01] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:03:01] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:03:01] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:03:01] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:03:01] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:03:01] [main/INFO]: Reloading ResourceManager: Default, AllMobHeads_V5.3+1.16, armor statues v2.8.1.zip, cauldron concrete v2.0.3.zip, holycube5, holycube5-miscs, holycube5-recipes, redstone rotation wrench v1.1.0.zip
-[19:03:03] [Worker-Main-12/INFO]: Loaded 7 recipes
-[19:03:03] [Worker-Main-12/WARN]: Found validation problem in {minecraft:entities/shulker}.pools[0].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/shulker
-[19:03:03] [Worker-Main-12/WARN]: Found validation problem in {minecraft:entities/ender_dragon}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/ender_dragon
-[19:03:03] [Worker-Main-12/WARN]: Found validation problem in {minecraft:entities/zombie_pigman}.pools[0].entries[0]: Unknown loot table called vanilla:entities/zombie_pigman
-[19:03:03] [Worker-Main-12/INFO]: Loaded 1407 advancements
-[19:03:06] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[19:03:06] [Server thread/INFO]: Loading properties
-[19:03:06] [Server thread/INFO]: Default game type: SURVIVAL
-[19:03:06] [Server thread/INFO]: Generating keypair
-[19:03:06] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:03:06] [Server thread/INFO]: Using default channel type
-[19:03:07] [Server thread/INFO]: Preparing level "world"
-[19:03:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:03:09] [Server thread/INFO]: Preparing spawn area: 0%
-[19:03:09] [Server thread/INFO]: Preparing spawn area: 0%
-[19:03:09] [Server thread/INFO]: Preparing spawn area: 0%
-[19:03:09] [Server thread/INFO]: Preparing spawn area: 48%
-[19:03:12] [Worker-Main-9/INFO]: Preparing spawn area: 83%
-[19:03:12] [Worker-Main-14/INFO]: Preparing spawn area: 83%
-[19:03:12] [Worker-Main-9/INFO]: Preparing spawn area: 83%
-[19:03:12] [Worker-Main-9/INFO]: Preparing spawn area: 83%
-[19:03:12] [Worker-Main-9/INFO]: Preparing spawn area: 83%
-[19:03:12] [Worker-Main-9/INFO]: Preparing spawn area: 83%
-[19:03:13] [Server thread/INFO]: Preparing spawn area: 83%
-[19:03:13] [Worker-Main-8/INFO]: Preparing spawn area: 90%
-[19:03:13] [Worker-Main-11/INFO]: Preparing spawn area: 90%
-[19:03:14] [Worker-Main-8/INFO]: Preparing spawn area: 90%
-[19:03:14] [Worker-Main-8/INFO]: Preparing spawn area: 91%
-[19:03:15] [Worker-Main-10/INFO]: Preparing spawn area: 93%
-[19:03:15] [Worker-Main-8/INFO]: Preparing spawn area: 98%
-[19:03:16] [Server thread/INFO]: Time elapsed: 8225 ms
-[19:03:16] [Server thread/INFO]: Done (8.365s)! For help, type "help"
-[19:03:16] [Server thread/WARN]: Trying to add entity with duplicated UUID a093751a-2c77-4658-9d5f-62ab4494bdaf. Existing minecraft:armor_stand#153, new: minecraft:armor_stand#154
-[19:03:58] [User Authenticator #1/INFO]: UUID of player Geogeohal is a9937690-52fd-4684-bf67-6f9b212608a6
-[19:03:58] [Server thread/INFO]: Geogeohal[/127.0.0.1:50411] logged in with entity id 157 at (124.41646492294427, 72.0, -382.42394311310375)
-[19:03:58] [Server thread/INFO]: Geogeohal joined the game
-[19:04:15] [Server thread/INFO]: Set the time to 1000
-[19:05:11] [Server thread/INFO]: Kicked Geogeohal: Kicked by an operator
-[19:05:11] [Server thread/INFO]: Geogeohal lost connection: Kicked by an operator
-[19:05:11] [Server thread/INFO]: Geogeohal left the game
-[19:05:19] [Server thread/INFO]: No player was found
-[19:05:25] [Server thread/INFO]: Invalid name or UUID
-[19:05:25] [Server thread/INFO]: /kick ?<--[HERE]
-[19:05:30] [Server thread/INFO]: /advancement (grant|revoke)
-[19:05:30] [Server thread/INFO]: /attribute <target> <attribute> (base|get|modifier)
-[19:05:30] [Server thread/INFO]: /ban <targets> [<reason>]
-[19:05:30] [Server thread/INFO]: /ban-ip <target> [<reason>]
-[19:05:30] [Server thread/INFO]: /banlist [ips|players]
-[19:05:30] [Server thread/INFO]: /bossbar (add|get|list|remove|set)
-[19:05:30] [Server thread/INFO]: /clear [<targets>]
-[19:05:30] [Server thread/INFO]: /clone <begin> <end> <destination> [filtered|masked|replace]
-[19:05:30] [Server thread/INFO]: /data (get|merge|modify|remove)
-[19:05:30] [Server thread/INFO]: /datapack (disable|enable|list)
-[19:05:30] [Server thread/INFO]: /debug (report|start|stop)
-[19:05:30] [Server thread/INFO]: /defaultgamemode (adventure|creative|spectator|survival)
-[19:05:30] [Server thread/INFO]: /deop <targets>
-[19:05:30] [Server thread/INFO]: /difficulty [easy|hard|normal|peaceful]
-[19:05:30] [Server thread/INFO]: /effect (clear|give)
-[19:05:30] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
-[19:05:30] [Server thread/INFO]: /execute (align|anchored|as|at|facing|if|in|positioned|rotated|run|store|unless)
-[19:05:30] [Server thread/INFO]: /experience (add|query|set)
-[19:05:30] [Server thread/INFO]: /fill <from> <to> <block> [destroy|hollow|keep|outline|replace]
-[19:05:30] [Server thread/INFO]: /forceload (add|query|remove)
-[19:05:30] [Server thread/INFO]: /function <name>
-[19:05:30] [Server thread/INFO]: /gamemode (adventure|creative|spectator|survival)
-[19:05:30] [Server thread/INFO]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks|universalAnger)
-[19:05:30] [Server thread/INFO]: /give <targets> <item> [<count>]
-[19:05:30] [Server thread/INFO]: /help [<command>]
-[19:05:30] [Server thread/INFO]: /kick <targets> [<reason>]
-[19:05:30] [Server thread/INFO]: /kill [<targets>]
-[19:05:30] [Server thread/INFO]: /list [uuids]
-[19:05:30] [Server thread/INFO]: /locate (bastion_remnant|buried_treasure|desert_pyramid|endcity|fortress|igloo|jungle_pyramid|mansion|mineshaft|monument|nether_fossil|ocean_ruin|pillager_outpost|ruined_portal|shipwreck|stronghold|swamp_hut|village)
-[19:05:30] [Server thread/INFO]: /locatebiome <biome>
-[19:05:30] [Server thread/INFO]: /loot (give|insert|replace|spawn)
-[19:05:30] [Server thread/INFO]: /me <action>
-[19:05:30] [Server thread/INFO]: /msg <targets> <message>
-[19:05:30] [Server thread/INFO]: /op <targets>
-[19:05:30] [Server thread/INFO]: /pardon <targets>
-[19:05:30] [Server thread/INFO]: /pardon-ip <target>
-[19:05:30] [Server thread/INFO]: /particle <name> [<pos>]
-[19:05:30] [Server thread/INFO]: /playsound <sound> (ambient|block|hostile|master|music|neutral|player|record|voice|weather)
-[19:05:30] [Server thread/INFO]: /recipe (give|take)
-[19:05:30] [Server thread/INFO]: /reload
-[19:05:30] [Server thread/INFO]: /replaceitem (block|entity)
-[19:05:30] [Server thread/INFO]: /save-all [flush]
-[19:05:30] [Server thread/INFO]: /save-off
-[19:05:30] [Server thread/INFO]: /save-on
-[19:05:30] [Server thread/INFO]: /say <message>
-[19:05:30] [Server thread/INFO]: /schedule (clear|function)
-[19:05:30] [Server thread/INFO]: /scoreboard (objectives|players)
-[19:05:30] [Server thread/INFO]: /seed
-[19:05:30] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
-[19:05:30] [Server thread/INFO]: /setidletimeout <minutes>
-[19:05:30] [Server thread/INFO]: /setworldspawn [<pos>]
-[19:05:30] [Server thread/INFO]: /spawnpoint [<targets>]
-[19:05:30] [Server thread/INFO]: /spectate [<target>]
-[19:05:30] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (under|<respectTeams>)
-[19:05:30] [Server thread/INFO]: /stop
-[19:05:30] [Server thread/INFO]: /stopsound <targets> [*|ambient|block|hostile|master|music|neutral|player|record|voice|weather]
-[19:05:30] [Server thread/INFO]: /summon <entity> [<pos>]
-[19:05:30] [Server thread/INFO]: /tag <targets> (add|list|remove)
-[19:05:30] [Server thread/INFO]: /team (add|empty|join|leave|list|modify|remove)
-[19:05:30] [Server thread/INFO]: /teammsg <message>
-[19:05:30] [Server thread/INFO]: /teleport (<destination>|<location>|<targets>)
-[19:05:30] [Server thread/INFO]: /tell -> msg
-[19:05:30] [Server thread/INFO]: /tellraw <targets> <message>
-[19:05:30] [Server thread/INFO]: /time (add|query|set)
-[19:05:30] [Server thread/INFO]: /title <targets> (actionbar|clear|reset|subtitle|times|title)
-[19:05:30] [Server thread/INFO]: /tm -> teammsg
-[19:05:30] [Server thread/INFO]: /tp -> teleport
-[19:05:30] [Server thread/INFO]: /trigger <objective> [add|set]
-[19:05:30] [Server thread/INFO]: /w -> msg
-[19:05:30] [Server thread/INFO]: /weather (clear|rain|thunder)
-[19:05:30] [Server thread/INFO]: /whitelist (add|list|off|on|reload|remove)
-[19:05:30] [Server thread/INFO]: /worldborder (add|center|damage|get|set|warning)
-[19:05:30] [Server thread/INFO]: /xp -> experience
-[19:05:36] [User Authenticator #2/INFO]: UUID of player Geogeohal is a9937690-52fd-4684-bf67-6f9b212608a6
-[19:05:37] [Server thread/INFO]: Geogeohal[/127.0.0.1:50511] logged in with entity id 779 at (20.31966382711101, 72.0, -431.1059852157221)
-[19:05:37] [Server thread/INFO]: Geogeohal joined the game
-[19:05:53] [Server thread/INFO]: Kicked Geogeohal: pour usage de vol
-[19:05:53] [Server thread/INFO]: Geogeohal lost connection: pour usage de vol
-[19:05:53] [Server thread/INFO]: Geogeohal left the game
-[19:06:08] [Server thread/INFO]: Stopping the server
-[19:06:08] [Server thread/INFO]: Stopping server
-[19:06:08] [Server thread/INFO]: Saving players
-[19:06:08] [Server thread/INFO]: Saving worlds
-[19:06:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:06:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:06:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[19:06:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:06:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[19:06:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:06:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:06:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:06:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:24:58] [main/INFO]: Loading for game Minecraft 1.16.4
+[12:24:59] [main/INFO]: [FabricLoader] Loading 4 mods: minecraft@1.16.4, lithium@0.6.0, fabricloader@0.10.6+build.214, lithium-api@0.6.0
+[12:24:59] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/Geoffroy/Desktop/Server_test/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[12:25:02] [main/INFO]: Loaded configuration file for Lithium: 63 options available, 0 override(s) found
+[12:25:05] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12:25:06] [main/INFO]: Found new data pack file/AllMobHeads_V5.3+1.16, loading it automatically
+[12:25:06] [main/INFO]: Found new data pack file/armor statues v2.8.1.zip, loading it automatically
+[12:25:06] [main/INFO]: Found new data pack file/cauldron concrete v2.0.3.zip, loading it automatically
+[12:25:06] [main/INFO]: Found new data pack file/holycube5, loading it automatically
+[12:25:06] [main/INFO]: Found new data pack file/holycube5-miscs, loading it automatically
+[12:25:06] [main/INFO]: Found new data pack file/holycube5-recipes, loading it automatically
+[12:25:06] [main/INFO]: Found new data pack file/redstone rotation wrench v1.1.0.zip, loading it automatically
+[12:25:06] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:25:06] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:25:06] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:25:06] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:25:06] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:25:06] [main/INFO]: Reloading ResourceManager: Default, AllMobHeads_V5.3+1.16, armor statues v2.8.1.zip, cauldron concrete v2.0.3.zip, holycube5, holycube5-miscs, holycube5-recipes, redstone rotation wrench v1.1.0.zip
+[12:25:08] [Worker-Main-10/INFO]: Loaded 7 recipes
+[12:25:08] [Worker-Main-10/WARN]: Found validation problem in {minecraft:entities/shulker}.pools[0].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/shulker
+[12:25:08] [Worker-Main-10/WARN]: Found validation problem in {minecraft:entities/ender_dragon}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/ender_dragon
+[12:25:08] [Worker-Main-10/WARN]: Found validation problem in {minecraft:entities/zombie_pigman}.pools[0].entries[0]: Unknown loot table called vanilla:entities/zombie_pigman
+[12:25:08] [Worker-Main-10/INFO]: Loaded 1407 advancements
+[12:25:10] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[12:25:10] [Server thread/INFO]: Loading properties
+[12:25:10] [Server thread/INFO]: Default game type: SURVIVAL
+[12:25:10] [Server thread/INFO]: Generating keypair
+[12:25:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:25:10] [Server thread/INFO]: Using default channel type
+[12:25:11] [Server thread/INFO]: Preparing level "world"
+[12:25:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:25:14] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[12:25:15] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[12:25:15] [Worker-Main-15/INFO]: Preparing spawn area: 1%
+[12:25:16] [Worker-Main-11/INFO]: Preparing spawn area: 2%
+[12:25:16] [Worker-Main-14/INFO]: Preparing spawn area: 4%
+[12:25:17] [Worker-Main-12/INFO]: Preparing spawn area: 6%
+[12:25:17] [Worker-Main-9/INFO]: Preparing spawn area: 6%
+[12:25:18] [Worker-Main-13/INFO]: Preparing spawn area: 6%
+[12:25:18] [Worker-Main-15/INFO]: Preparing spawn area: 9%
+[12:25:19] [Worker-Main-15/INFO]: Preparing spawn area: 9%
+[12:25:19] [Worker-Main-8/INFO]: Preparing spawn area: 9%
+[12:25:20] [Worker-Main-8/INFO]: Preparing spawn area: 17%
+[12:25:20] [Worker-Main-9/INFO]: Preparing spawn area: 17%
+[12:25:21] [Worker-Main-9/INFO]: Preparing spawn area: 17%
+[12:25:21] [Worker-Main-8/INFO]: Preparing spawn area: 24%
+[12:25:22] [Worker-Main-11/INFO]: Preparing spawn area: 24%
+[12:25:22] [Worker-Main-9/INFO]: Preparing spawn area: 33%
+[12:25:23] [Worker-Main-13/INFO]: Preparing spawn area: 39%
+[12:25:23] [Worker-Main-12/INFO]: Preparing spawn area: 45%
+[12:25:24] [Worker-Main-12/INFO]: Preparing spawn area: 51%
+[12:25:25] [Worker-Main-12/INFO]: Preparing spawn area: 55%
+[12:25:25] [Worker-Main-13/INFO]: Preparing spawn area: 55%
+[12:25:25] [Worker-Main-13/INFO]: Preparing spawn area: 55%
+[12:25:26] [Worker-Main-14/INFO]: Preparing spawn area: 72%
+[12:25:26] [Worker-Main-14/INFO]: Preparing spawn area: 79%
+[12:25:27] [Worker-Main-9/INFO]: Preparing spawn area: 85%
+[12:25:28] [Worker-Main-12/INFO]: Preparing spawn area: 86%
+[12:25:28] [Worker-Main-9/INFO]: Preparing spawn area: 86%
+[12:25:28] [Server thread/INFO]: Time elapsed: 13582 ms
+[12:25:28] [Server thread/INFO]: Done (16.989s)! For help, type "help"
+[12:25:38] [User Authenticator #1/INFO]: UUID of player Geogeohal is a9937690-52fd-4684-bf67-6f9b212608a6
+[12:25:38] [Server thread/INFO]: Geogeohal[/127.0.0.1:54067] logged in with entity id 237 at (23.5, 64.0, -20.5)
+[12:25:38] [Server thread/INFO]: Geogeohal joined the game
+[12:26:08] [Server thread/INFO]: [Geogeohal: Set own game mode to Creative Mode]
+[12:26:42] [Server thread/INFO]: Villager class_1646['Villager'/420, l='ServerLevel[world]', x=24.30, y=63.00, z=-22.70] died, message: 'Villager was slain by Geogeohal'
+[12:26:46] [Server thread/INFO]: Geogeohal fell out of the world
+[12:26:46] [Server thread/INFO]: [Geogeohal: Killed Geogeohal]
+[12:27:15] [Server thread/INFO]: Geogeohal fell out of the world
+[12:27:15] [Server thread/INFO]: [Geogeohal: Killed Geogeohal]
+[12:27:20] [Server thread/INFO]: Geogeohal fell out of the world
+[12:27:20] [Server thread/INFO]: [Geogeohal: Killed Geogeohal]
+[12:27:53] [Server thread/INFO]: [Geogeohal: Created new objective [Deaths]]
+[12:28:00] [Server thread/INFO]: [Geogeohal: Set display slot list to show objective Deaths]
+[12:28:23] [Server thread/INFO]: Geogeohal lost connection: Disconnected
+[12:28:23] [Server thread/INFO]: Geogeohal left the game
+[12:29:54] [Server thread/INFO]: Reloading!
+[12:29:54] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:29:54] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:29:54] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:29:54] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:29:54] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:29:54] [Server thread/INFO]: Reloading ResourceManager: Default, AllMobHeads_V5.3+1.16, armor statues v2.8.1.zip, cauldron concrete v2.0.3.zip, holycube5, holycube5-miscs, holycube5-recipes, redstone rotation wrench v1.1.0.zip
+[12:29:55] [Server thread/INFO]: Loaded 7 recipes
+[12:29:55] [Server thread/WARN]: Found validation problem in {minecraft:entities/shulker}.pools[0].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/shulker
+[12:29:55] [Server thread/WARN]: Found validation problem in {minecraft:entities/ender_dragon}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/ender_dragon
+[12:29:55] [Server thread/WARN]: Found validation problem in {minecraft:entities/zombie_pigman}.pools[0].entries[0]: Unknown loot table called vanilla:entities/zombie_pigman
+[12:29:55] [Server thread/INFO]: Loaded 1407 advancements
+[12:30:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[12:30:04] [Server thread/INFO]: /restart<--[HERE]
+[12:30:09] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[12:30:09] [Server thread/INFO]: /rebbot<--[HERE]
+[12:30:13] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[12:30:13] [Server thread/INFO]: /reboot<--[HERE]
+[12:30:22] [Server thread/INFO]: Stopping the server
+[12:30:22] [Server thread/INFO]: Stopping server
+[12:30:22] [Server thread/INFO]: Saving players
+[12:30:22] [Server thread/INFO]: Saving worlds
+[12:30:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12:30:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:30:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12:30:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:30:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12:30:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:30:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:30:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:30:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

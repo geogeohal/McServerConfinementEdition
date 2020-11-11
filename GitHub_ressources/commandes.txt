@@ -1,0 +1,5 @@
+/scoreboard objectives add Deaths deathCount
+/scoreboard objectives setdisplay list Deaths
+/scoreboard players remove <selector> Deaths <amount to remove>
+/scoreboard players reset <selector> Deaths
+/scoreboard players set <Player> <Objective> <Value>
