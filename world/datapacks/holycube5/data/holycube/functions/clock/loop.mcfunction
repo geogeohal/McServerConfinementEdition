@@ -1,5 +1,0 @@
-execute store result score #HC5# hc5 run data get storage holycube:timer clock
-execute if score #HC5# hc5 matches 1.. store result storage holycube:timer clock int 1 run scoreboard players remove #HC5# hc5 1
-execute if score #HC5# hc5 matches 0 run data modify storage holycube:timer clock set value 16
-
-execute if score #HC5# hc5 matches 0 run function holycube:clock/update

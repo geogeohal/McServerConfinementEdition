@@ -1,284 +1,581 @@
 {
-  "custom:collection/villager/savanna/end_line_savanna_villager": {
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
-      "location": "2020-11-11 12:25:38 +0100"
+      "has_sand": "2020-11-27 15:06:36 +0100"
     },
     "done": true
   },
-  "custom:collection/zombie_villager/taiga/end_line_taiga_zombie_villager": {
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
-      "location": "2020-11-11 12:25:38 +0100"
+      "has_sand": "2020-11-27 15:06:36 +0100"
     },
     "done": true
   },
-  "custom:collection/hostile/anti_villager/end_line_anti_villager": {
+  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
-      "location": "2020-11-11 12:25:38 +0100"
+      "has_bed": "2020-11-27 15:35:05 +0100"
     },
     "done": true
   },
-  "custom:collection/villager/taiga/end_line_taiga_villager": {
+  "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
-      "location": "2020-11-11 12:25:38 +0100"
+      "has_stick": "2020-11-27 14:56:30 +0100"
     },
     "done": true
   },
-  "custom:collection/llama/end_line_llama": {
+  "minecraft:recipes/redstone/lever": {
     "criteria": {
-      "location": "2020-11-11 12:25:38 +0100"
+      "has_cobblestone": "2020-11-27 15:09:28 +0100"
     },
     "done": true
   },
-  "custom:collection/jungle/parrot/end_line_parrot": {
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
-      "location": "2020-11-11 12:25:38 +0100"
+      "has_cobblestone": "2020-11-27 15:09:28 +0100"
     },
     "done": true
   },
-  "custom:collection/villager/plain/12_villager": {
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
-      "12_villager": "2020-11-11 12:26:43 +0100"
+      "has_sand": "2020-11-27 15:06:36 +0100"
     },
     "done": true
   },
-  "custom:collection/rabbit/end_line_rabbit": {
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
-      "location": "2020-11-11 12:25:38 +0100"
+      "has_sand": "2020-11-27 15:06:36 +0100"
     },
     "done": true
   },
-  "vanillatweaks:cauldron_concrete": {
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
-      "tick": "2020-11-11 12:25:38 +0100"
+      "has_stone": "2020-11-27 15:06:43 +0100"
     },
     "done": true
   },
-  "custom:collection/jungle/panda/end_line_panda": {
+  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
     "criteria": {
-      "location": "2020-11-11 12:25:38 +0100"
+      "has_bed": "2020-11-27 15:35:05 +0100"
     },
     "done": true
   },
-  "custom:collection/nether/end_line_nether": {
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
-      "location": "2020-11-11 12:25:38 +0100"
+      "has_andesite": "2020-11-27 15:06:44 +0100"
     },
     "done": true
   },
-  "custom:collection/hostile/slime/end_line_slime": {
+  "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
-      "location": "2020-11-11 12:25:38 +0100"
+      "has_stone": "2020-11-27 15:06:43 +0100"
     },
     "done": true
   },
-  "custom:collection/hostile/classic/end_line_classic": {
+  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
-      "location": "2020-11-11 12:25:38 +0100"
+      "has_bed": "2020-11-27 15:35:05 +0100"
     },
     "done": true
   },
-  "custom:collection/zombie_villager/savanna/end_line_savanna_zombie_villager": {
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
-      "location": "2020-11-11 12:25:38 +0100"
+      "has_stone": "2020-11-27 15:06:43 +0100"
     },
     "done": true
   },
-  "custom:collection/villager/desert/end_line_desert_villager": {
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
-      "location": "2020-11-11 12:25:38 +0100"
+      "has_andesite": "2020-11-27 15:06:44 +0100"
     },
     "done": true
   },
-  "custom:collection/zombie_villager/plain/end_line_zombie_villager": {
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
-      "location": "2020-11-11 12:25:38 +0100"
+      "has_sand": "2020-11-27 15:06:36 +0100"
     },
     "done": true
   },
-  "custom:collection/villager": {
+  "minecraft:story/mine_stone": {
     "criteria": {
-      "12_villager": "2020-11-11 12:26:43 +0100"
-    },
-    "done": false
-  },
-  "custom:collection/jungle/other/end_line_other": {
-    "criteria": {
-      "location": "2020-11-11 12:25:38 +0100"
+      "get_stone": "2020-11-27 15:09:28 +0100"
     },
     "done": true
   },
-  "custom:collection/zombie_villager/desert/end_line_desert_zombie_villager": {
+  "minecraft:recipes/building_blocks/stone": {
     "criteria": {
-      "location": "2020-11-11 12:25:38 +0100"
+      "has_cobblestone": "2020-11-27 15:09:28 +0100"
     },
     "done": true
   },
-  "custom:collection/bee/end_line_bee": {
+  "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
-      "location": "2020-11-11 12:25:38 +0100"
+      "has_stone": "2020-11-27 15:06:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2020-11-27 15:09:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-11-27 15:06:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2020-11-27 15:06:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2020-11-27 15:13:48 +0100"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2020-11-11 12:25:38 +0100",
-      "minecraft:birch_forest": "2020-11-11 12:28:21 +0100"
+      "minecraft:cold_ocean": "2020-11-27 14:56:20 +0100",
+      "minecraft:deep_cold_ocean": "2020-11-27 14:57:23 +0100",
+      "minecraft:beach": "2020-11-27 14:56:21 +0100",
+      "minecraft:dark_forest": "2020-11-27 14:56:23 +0100",
+      "minecraft:plains": "2020-11-27 14:56:08 +0100"
     },
     "done": false
   },
-  "custom:collection/zombie_villager/snow/end_line_snow_zombie_villager": {
+  "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
-      "location": "2020-11-11 12:25:38 +0100"
+      "has_bed": "2020-11-27 15:35:05 +0100"
     },
     "done": true
   },
-  "custom:collection/sheep/end_line_sheep": {
+  "minecraft:recipes/decorations/campfire": {
     "criteria": {
-      "location": "2020-11-11 12:25:38 +0100"
+      "has_stick": "2020-11-27 14:56:30 +0100"
     },
     "done": true
   },
-  "armor_statues:enable": {
+  "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
-      "tick": "2020-11-11 12:25:38 +0100"
+      "has_andesite": "2020-11-27 15:06:44 +0100"
     },
     "done": true
   },
-  "custom:collection/villager/jungle/end_line_jungle_villager": {
+  "minecraft:recipes/misc/charcoal": {
     "criteria": {
-      "location": "2020-11-11 12:25:38 +0100"
+      "has_log": "2020-11-27 15:15:27 +0100"
     },
     "done": true
   },
-  "custom:collection/passive/end_line_passive": {
+  "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
-      "location": "2020-11-11 12:25:38 +0100"
+      "has_sand": "2020-11-27 15:06:36 +0100"
     },
     "done": true
   },
-  "custom:collection/villager/plain/end_line_villager": {
+  "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
-      "location": "2020-11-11 12:25:38 +0100"
+      "has_logs": "2020-11-27 15:15:27 +0100"
     },
     "done": true
   },
-  "vanillatweaks:root": {
+  "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
-      "tick": "2020-11-11 12:25:38 +0100"
+      "has_stick": "2020-11-27 14:56:30 +0100"
     },
     "done": true
   },
-  "custom:collection/sea/end_line_sea": {
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
-      "location": "2020-11-11 12:25:38 +0100"
+      "has_cobblestone": "2020-11-27 15:09:28 +0100"
     },
     "done": true
   },
-  "custom:collection/wither_boss/end_line_wither_boss": {
+  "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
-      "location": "2020-11-11 12:25:38 +0100"
+      "has_stone": "2020-11-27 15:06:43 +0100"
     },
     "done": true
   },
-  "custom:collection/zombie_villager/swamp/end_line_swamp_zombie_villager": {
+  "minecraft:recipes/decorations/ladder": {
     "criteria": {
-      "location": "2020-11-11 12:25:38 +0100"
+      "has_stick": "2020-11-27 14:56:30 +0100"
     },
     "done": true
   },
-  "custom:collection/root": {
+  "minecraft:recipes/decorations/chest": {
     "criteria": {
-      "12_villager": "2020-11-11 12:26:43 +0100"
-    },
-    "done": false
-  },
-  "custom:collection/end/shulker/end_line_shulker": {
-    "criteria": {
-      "location": "2020-11-11 12:25:38 +0100"
+      "has_lots_of_items": "2020-11-27 15:17:47 +0100"
     },
     "done": true
   },
-  "custom:collection/zombie_villager/jungle/end_line_jungle_zombie_villager": {
+  "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
-      "location": "2020-11-11 12:25:38 +0100"
+      "in_water": "2020-11-27 15:08:12 +0100"
     },
     "done": true
   },
-  "custom:collection/canidae/wolf/end_line_wolf": {
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
-      "location": "2020-11-11 12:25:38 +0100"
+      "has_sand": "2020-11-27 15:06:36 +0100"
     },
     "done": true
   },
-  "custom:collection/canidae/dog/end_line_dog": {
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
-      "location": "2020-11-11 12:25:38 +0100"
+      "has_stone": "2020-11-27 15:06:43 +0100"
     },
     "done": true
   },
-  "custom:collection/cat/end_line_cat": {
+  "minecraft:recipes/combat/stone_sword": {
     "criteria": {
-      "location": "2020-11-11 12:25:38 +0100"
+      "has_cobblestone": "2020-11-27 15:09:28 +0100"
     },
     "done": true
   },
-  "custom:collection/villager/plain": {
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
-      "12_villager": "2020-11-11 12:26:43 +0100"
-    },
-    "done": false
-  },
-  "vanillatweaks:armor_statues": {
-    "criteria": {
-      "tick": "2020-11-11 12:25:38 +0100"
+      "has_stone": "2020-11-27 15:06:43 +0100"
     },
     "done": true
   },
-  "custom:collection/hostile/vanilla/end_line_vanilla": {
+  "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
-      "location": "2020-11-11 12:25:38 +0100"
+      "has_bed": "2020-11-27 15:35:05 +0100"
     },
     "done": true
   },
-  "custom:collection/villager/snow/end_line_snow_villager": {
+  "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
-      "location": "2020-11-11 12:25:38 +0100"
+      "has_cobblestone": "2020-11-27 15:09:28 +0100"
     },
     "done": true
   },
-  "minecraft:adventure/root": {
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
-      "killed_something": "2020-11-11 12:26:42 +0100"
+      "has_andesite": "2020-11-27 15:06:44 +0100"
     },
     "done": true
   },
-  "custom:collection/end/classic/end_line_classic": {
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
-      "location": "2020-11-11 12:25:38 +0100"
+      "has_sand": "2020-11-27 15:06:36 +0100"
     },
     "done": true
   },
-  "custom:collection/villager/swamp/end_line_swamp_villager": {
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
-      "location": "2020-11-11 12:25:38 +0100"
+      "has_andesite": "2020-11-27 15:06:44 +0100"
     },
     "done": true
   },
-  "custom:collection/horse/end_line_horse": {
+  "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
-      "location": "2020-11-11 12:25:38 +0100"
+      "has_stick": "2020-11-27 14:56:30 +0100"
     },
     "done": true
   },
-  "vanillatweaks:redstone_wrench": {
+  "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
-      "tick": "2020-11-11 12:25:38 +0100"
+      "in_water": "2020-11-27 15:08:12 +0100"
     },
     "done": true
   },
-  "custom:collection/canidae/fox/end_line_fox": {
+  "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
-      "location": "2020-11-11 12:25:38 +0100"
+      "has_cobblestone": "2020-11-27 15:09:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-11-27 15:35:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2020-11-27 15:06:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2020-11-27 15:06:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2020-11-27 15:15:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2020-11-27 15:06:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2020-11-27 15:09:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2020-11-27 15:06:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2020-11-27 15:08:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2020-11-27 15:09:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2020-11-27 15:08:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-11-27 15:35:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2020-11-27 15:06:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-11-27 15:06:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2020-11-27 14:56:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2020-11-27 15:09:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2020-11-27 15:06:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2020-11-27 15:06:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-11-27 15:35:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-11-27 15:06:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2020-11-27 15:09:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-11-27 15:06:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2020-11-27 15:08:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2020-11-27 15:06:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-11-27 15:35:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-11-27 15:35:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2020-11-27 14:56:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2020-11-27 15:09:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-11-27 15:35:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2020-11-27 15:06:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2020-11-27 15:09:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-11-27 15:06:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-11-27 15:35:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2020-11-27 15:09:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2020-11-27 15:06:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2020-11-27 15:06:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-11-27 15:35:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2020-11-27 15:06:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2020-11-27 14:56:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2020-11-27 14:56:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2020-11-27 15:08:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-11-27 15:06:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-11-27 15:06:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2020-11-27 15:09:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-11-27 15:35:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-11-27 15:06:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-11-27 15:06:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-11-27 15:35:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2020-11-27 15:06:36 +0100"
     },
     "done": true
   },
